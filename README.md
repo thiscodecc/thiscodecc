@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 我获取的CVE列表
+* IBM WebSPhere [CVE-2022-35282](https://www.ibm.com/support/pages/node/6824179)(4.3 MEDIUM)
 * Oracle WebLogic [CVE-2022-21350](https://www.oracle.com/security-alerts/cpujan2022.html)(6.5 MEDIUM)
 * Oracle WebLogic [CVE-2022-21292](https://www.oracle.com/security-alerts/cpujan2022.html)(7.5 HIGH)
 * Oracle WebLogic [CVE-2022-21361](https://www.oracle.com/security-alerts/cpujan2022.html)(6.1 MEDIUM)
