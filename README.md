@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 我获取的CVE列表
+* OpenJDK [CVE-2023-21830](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)(5.3 MEDIUM)
+* Oracle WebLogic [CVE-2023-21839](https://www.oracle.com/security-alerts/cpujan2023.html)(7.5 HIGH)
+* Oracle WebLogic [CVE-2023-21837](https://www.oracle.com/security-alerts/cpujan2023.html)(7.5 HIGH)
 * VMware vRealize [CVE-2022-31707](https://www.vmware.com/security/advisories/VMSA-2022-0034.html)(7.2 HIGH)
 * VMware vRealize [CVE-2022-31708](https://www.vmware.com/security/advisories/VMSA-2022-0034.html)(4.4 MEDIUM)
 * IBM WebSphere [CVE-2022-35282](https://www.ibm.com/support/pages/node/6824179)(4.3 MEDIUM)
