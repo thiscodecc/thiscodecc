@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### 我获取的CVE列表
 * OpenJDK [CVE-2023-22067](https://openjdk.org/groups/vulnerability/advisories/2023-10-17)(5.3 MEDIUM)
-* VMware [CVE-2023-34043](https://www.vmware.com/security/advisories/VMSA-2023-0020.html)(6.7 MEDIUM)
-* VMware [CVE-2023-20880](https://www.vmware.com/security/advisories/VMSA-2023-0009.html)(6.4 MEDIUM)
-* VMware [CVE-2023-20879](https://www.vmware.com/security/advisories/VMSA-2023-0009.html)(6.7 MEDIUM)
-* VMware [CVE-2023-20856](https://www.vmware.com/security/advisories/VMSA-2023-0002.html)(6.5 MEDIUM)
+* VMware Aria [CVE-2023-34043](https://www.vmware.com/security/advisories/VMSA-2023-0020.html)(6.7 MEDIUM)
+* VMware Aria [CVE-2023-20880](https://www.vmware.com/security/advisories/VMSA-2023-0009.html)(6.4 MEDIUM)
+* VMware Aria [CVE-2023-20879](https://www.vmware.com/security/advisories/VMSA-2023-0009.html)(6.7 MEDIUM)
+* VMware vRealize [CVE-2023-20856](https://www.vmware.com/security/advisories/VMSA-2023-0002.html)(6.5 MEDIUM)
 * OpenJDK [CVE-2023-21830](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)(5.3 MEDIUM)
 * Oracle WebLogic [CVE-2023-21839](https://www.oracle.com/security-alerts/cpujan2023.html)(7.5 HIGH)
 * Oracle WebLogic [CVE-2023-21837](https://www.oracle.com/security-alerts/cpujan2023.html)(7.5 HIGH)
