@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 我获取的CVE列表
+* Apache [CVE-2023-51441](https://lists.apache.org/thread/8nrm5thop8f82pglx4o0jg8wmvy6d9yd)(7.2 HIGH)
 * OpenJDK [CVE-2023-22067](https://openjdk.org/groups/vulnerability/advisories/2023-10-17)(5.3 MEDIUM)
 * VMware Aria [CVE-2023-34043](https://www.vmware.com/security/advisories/VMSA-2023-0020.html)(6.7 MEDIUM)
 * VMware Aria [CVE-2023-20880](https://www.vmware.com/security/advisories/VMSA-2023-0009.html)(6.4 MEDIUM)
