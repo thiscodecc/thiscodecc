@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ### 我获取的CVE列表
+* VMware Aria [CVE-2024-38831](https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25199) (7.8 HIGH)
+* VMware Aria [CVE-2024-38830](https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25199) (7.8 HIGH)
+* VMware Aria [CVE-2024-22235](https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24264) (6.7 MEDIUM)
 * Apache Axis [CVE-2023-51441](https://lists.apache.org/thread/8nrm5thop8f82pglx4o0jg8wmvy6d9yd)(7.2 HIGH)
+* Apache StreamPark [CVE-2023-52291](https://lists.apache.org/thread/pl6xgzoqrl4kcn0nt55zjbsx8dn80mkf) (8.8 HIGH)
+* Apache StreamPark [CVE-2023-52290](https://lists.apache.org/thread/t3mcm8pb65d9gj3wrgtj9sx9s2pfvvl3) (8.1 HIGH)
 * OpenJDK [CVE-2023-22067](https://openjdk.org/groups/vulnerability/advisories/2023-10-17)(5.3 MEDIUM)
 * VMware Aria [CVE-2023-34043](https://www.vmware.com/security/advisories/VMSA-2023-0020.html)(6.7 MEDIUM)
 * VMware Aria [CVE-2023-20880](https://www.vmware.com/security/advisories/VMSA-2023-0009.html)(6.4 MEDIUM)
